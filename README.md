@@ -3,4 +3,4 @@ this is my first git repository
 <br>
 Author- saurabh kumar
 <br>
-by grace of god
+by the grace of god
